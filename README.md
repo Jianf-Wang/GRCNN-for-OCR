@@ -26,6 +26,7 @@ Inference
 We provide the pretrained model from [here](https://pan.baidu.com/s/1c21zl1e#list/path=%2F). Put the downloaded model file into directory ``model/GRCL/``. Moreover, we provide the IC03 dataset in the "./data/IC03" directory. You need to change the directories listed in the "test.txt". The "test_label.txt" is the ground truth of each image. The "Lexicon_50.txt" is the lexicon of IC03. 
 
 "src/evaluation.lua": Lexicon-free evaluation
+
 "src/evaluation_lex.lua" Lexicon-based evaluation
 
 The evaluation code will output the recognition accuracy.
@@ -59,4 +60,4 @@ To-Do
 ----------------
 
 Caffe implementation: Since the CRNN project is a little bit out-of-date, it might cannot compatible with Ubuntu 16.04. We will further implement a caffe version of GRCNN for OCR.
-# GRCNN-for-OCR
+
