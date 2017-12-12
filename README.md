@@ -59,3 +59,4 @@ To-Do
 ----------------
 
 Caffe implementation: Since the CRNN project is a little bit out-of-date, it might cannot compatible with Ubuntu 16.04. We will further implement a caffe version of GRCNN for OCR.
+# GRCNN-for-OCR
