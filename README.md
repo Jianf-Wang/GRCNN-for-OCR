@@ -17,6 +17,8 @@ The GRCNN is built upon the CRNN. The requirements are:
 For the convenience of compiling, we provide the dependencies from here:
 https://pan.baidu.com/s/1c21zl1e#list/path=%2F
 
+It is more convenient if you use nivdia-docker image (@rremani supplied) : https://hub.docker.com/r/rremani/cuda_crnn_torch/
+
 After installing the dependencies, go to ``src/`` and execute `` build_cpp.sh`` to build the C++ code. If successful, a file named ``libcrnn.so`` should be produced in the ``src/`` directory.
 
 
