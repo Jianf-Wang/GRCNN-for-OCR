@@ -55,7 +55,8 @@ Please cite the following paper if you are using the code/model in your research
     author{Wang, Jianfeng and Hu, Xiaolin},
     booktitle={Advances in Neural Information Processing Systems},
     year={2017}
-}
+    }
+
 
 
 To-Do
