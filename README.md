@@ -48,13 +48,11 @@ Follow the following steps to train a new model on your own dataset.
 Citation
 --------
 
-Please cite the following paper if you are using the code/model in your research paper.
-
-@inproceedings{jianfeng2017deep,
-        title={Gated Recurrent Convolution Neural Network for OCR},
-        author={Wang, Jianfeng and Hu, Xiaolin},
-        booktitle={Advances in Neural Information Processing Systems},        
-        year={2017}
+@inproceedings{jianfeng2017deep, \<br> 
+        title={Gated Recurrent Convolution Neural Network for OCR}, \<br> 
+        author={Wang, Jianfeng and Hu, Xiaolin}, \<br> 
+        booktitle={Advances in Neural Information Processing Systems}, \<br>        
+        year={2017} \<br> 
        }
     
 To-Do
