@@ -50,15 +50,13 @@ Citation
 
 Please cite the following paper if you are using the code/model in your research paper.
 
-    @inproceedings{jianfeng2017deep,
+@inproceedings{jianfeng2017deep,
     title={Gated Recurrent Convolution Neural Network for OCR},
     author={Wang, Jianfeng and Hu, Xiaolin},
     booktitle={Advances in Neural Information Processing Systems},
     year={2017}
     }
-
-
-
+    
 To-Do
 ----------------
 
