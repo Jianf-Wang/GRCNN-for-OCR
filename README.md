@@ -55,7 +55,12 @@ Citation
      year      = {2017}
     }
 
+Other applications
+--------
 
+GRCNN for face recognition. We build a GRCNN and use a modified combined angular margin softmax loss for face recognition. GRCNN can reach state-of-the-art results on lfw (99.82 %)
+
+https://github.com/Jianfeng1991/GRCNN-for-Face
     
 To-Do
 ----------------
