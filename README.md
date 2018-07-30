@@ -46,6 +46,8 @@ Follow the following steps to train a new model on your own dataset.
 
 Visualization
 -----------------
+<img src="https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png"  height="120" width="250">
+
 ![image]<img width="250" height="120" https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png>
 ![image](https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png)
 
