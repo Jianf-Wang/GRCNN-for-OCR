@@ -46,7 +46,7 @@ Follow the following steps to train a new model on your own dataset.
 
 Visualization
 -----------------
-<img width="850" height="320" src=https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png>
+<img width="850" height="320" src="https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png">
 
 We visualize the RCNN , DenseNet and GRCNN to verify the dynamic receptive fields in GRCNN for OCR. There are clearly gaps among different characters, and for each character, the unrelated parts do not provide strong signal so that the shape of receptive field is similar to the character.
 
