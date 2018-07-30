@@ -44,6 +44,12 @@ Follow the following steps to train a new model on your own dataset.
   3. Go to ``src/`` and execute ``th main_train.lua ../model/GRCL/ ../model/saved_model``. Model snapshots will be saved into ``../model/saved_model``.
 
 
+Visualization
+-----------------
+![image](https://github.com/Jianfeng1991/GRCNN-for-OCR/blob/master/visualization.png)
+
+We visualize the RCNN , DenseNet and GRCNN to verify the dynamic receptive fields in GRCNN for OCR.
+
 
 Citation
 --------
