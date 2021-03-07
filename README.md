@@ -62,21 +62,10 @@ Citation
      year      = {2017}
     }
 
-Other applications
+Journal version of GRCNN
 --------
+The code of the journal version of GRCNN is available at:
 
-GRCNN for face recognition. We build a GRCNN and use a modified combined angular margin softmax loss for face recognition. GRCNN can reach state-of-the-art results on lfw (99.82 %)
+https://github.com/Jianf-Wang/GRCNN
 
-https://github.com/Jianfeng1991/GRCNN-for-Face
-
-The code of our journal version paper which applies GRCNN to object recognition can be found at:
-
-https://github.com/Jianfeng1991/GRCNN_object_recognition
-
-The pretrained model on ImageNet will be released.
-    
-To-Do
-----------------
-
-Caffe implementation: Since the CRNN project is a little bit out-of-date, it might cannot compatible with Ubuntu 16.04. We will further implement a caffe version of GRCNN for OCR.
 
