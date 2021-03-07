@@ -3,6 +3,12 @@ Gated Recurrent Convolution Neural Network for OCR
 
 This project is an implementation of the GRCNN for OCR. For details, please refer to the paper: https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf
 
+Update
+-----
+
+The journal version of GRCNN has been accepted by T-PAMI 2021, and the code is available at:
+
+https://github.com/Jianf-Wang/GRCNN
 
 
 Build
@@ -62,10 +68,6 @@ Citation
      year      = {2017}
     }
 
-Journal version of GRCNN
---------
-The code of the journal version of GRCNN is available at:
 
-https://github.com/Jianf-Wang/GRCNN
 
 
